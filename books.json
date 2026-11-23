@@ -1,0 +1,4 @@
+[
+  { "id": "10-fizik", "sinif": 10, "ders": "Fizik", "ad": "10. Sınıf Fizik Ders Kitabı", "file": "books/10-fizik.pdf", "offset": 0 },
+  { "id": "10-matematik", "sinif": 10, "ders": "Matematik", "ad": "10. Sınıf Matematik Ders Kitabı", "file": "books/10-matematik.pdf", "offset": 0 }
+]
