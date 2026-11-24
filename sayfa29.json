@@ -1,0 +1,12 @@
+{
+ "sayfa": 29,
+ "sorular": [
+  {
+   "no": "5. Sıra Sizde",
+   "soru": "Açıların yönünü tabloya yazınız (70°, 130°, -40°, -150°)",
+   "cevap": "70° pozitif (K), 130° pozitif (R), -40° negatif (M), -150° negatif (N).",
+   "aciklama": "Saat yönünün tersine dönen açı pozitif, saat yönünde dönen açı negatif yönlüdür. Pozitif ölçüler pozitif yönlü, negatif ölçüler negatif yönlü açıyı gösterir. Birim çemberde göstermek için: pozitif açıyı x ekseninden saat yönünün tersine, negatif açıyı saat yönünde ölçüp çemberi kestiği noktayı işaretleyin."
+  }
+ ],
+ "olusturma": 1795488495894
+}

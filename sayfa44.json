@@ -1,0 +1,12 @@
+{
+ "sayfa": 44,
+ "sorular": [
+  {
+   "no": "5",
+   "soru": "İki köşeden dış açıortaylar ve diğer köşeden iç açıortay hakkında önermeniz",
+   "cevap": "Bir üçgenin iki köşesinden çizilen dış açıortaylar ile üçüncü köşesinden çizilen iç açıortay aynı noktada kesişir. Bu nokta dış teğet çemberin merkezidir ve kenarları taşıyan üç doğruya eşit uzaklıktadır.",
+   "aciklama": "Açıortay üzerindeki nokta açının kollarına eşit uzaklıkta olduğundan, iki dış açıortayın kesim noktası üçgenin üç kenar doğrusuna eşit uzaklıktadır. Bu yüzden diğer köşenin iç açıortayı üzerinde de bulunur."
+  }
+ ],
+ "olusturma": 1795488495894
+}

@@ -1,0 +1,12 @@
+{
+ "sayfa": 20,
+ "sorular": [
+  {
+   "no": "7",
+   "soru": "İş merdiveninin ayakları arasına bağlanacak ipin en az uzunluğu",
+   "cevap": "3 metre.",
+   "aciklama": "Merdiven ikizkenar bir üçgen gibi düşünülür: iki kenarı 2,5 m, taban açıları 50°. Tabanın yarısı = 2,5 · cos50° olur, ip bütün tabandır: 2 · 2,5 · cos50° = 5 · cos50°. cos50° = sin40° ≈ 0,6 olduğundan ip = 5 · 0,6 = 3 m."
+  }
+ ],
+ "olusturma": 1795488495894
+}

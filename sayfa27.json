@@ -1,0 +1,24 @@
+{
+ "sayfa": 27,
+ "sorular": [
+  {
+   "no": "8",
+   "soru": "Kutuya 120° açıyla 60 N kuvvet uygulanıp 4 m hareket ettirilirse yapılan iş kaç joule, sistemin enerji durumu nedir",
+   "cevap": "W = -120 joule. İş negatif olduğundan sistemden enerji çekilmiştir.",
+   "aciklama": "W = F · d · cosθ = 60 · 4 · cos120°. cos120° = -1/2 olduğundan W = 240 · (-1/2) = -120 J. Negatif iş, sistemden enerji alındığı anlamına gelir."
+  },
+  {
+   "no": "4. Sıra Sizde a",
+   "soru": "AB, AC ve AD kenarlarını x açısının trigonometrik oranları cinsinden yazınız (CD = 1)",
+   "cevap": "AD = sinx, AC = cosx, AB = sinx · cosx",
+   "aciklama": "ACD dik üçgeninde hipotenüs CD = 1 olduğundan AD = sinx, AC = cosx. BCA dik üçgeninde hipotenüs AC = cosx ve C açısı x olduğundan AB = AC · sinx = sinx · cosx."
+  },
+  {
+   "no": "4. Sıra Sizde c",
+   "soru": "tan(ACD) · cot(ACD) ifadesinin değeri",
+   "cevap": "1",
+   "aciklama": "Aynı açının tanjantı ile kotanjantı birbirinin çarpmaya göre tersidir: tanx · cotx = 1."
+  }
+ ],
+ "olusturma": 1795488495894
+}
