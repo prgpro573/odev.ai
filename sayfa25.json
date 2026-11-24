@@ -1,0 +1,18 @@
+{
+ "sayfa": 25,
+ "sorular": [
+  {
+   "no": "5 a",
+   "soru": "Eğim yüzdesi formülünü trigonometrik oranla ifade ediniz",
+   "cevap": "Eğim yüzdesi = 100 · tana",
+   "aciklama": "Eğim = yükseklik farkı / yatay uzaklık, bu da yolun yatayla yaptığı a açısının tanjantıdır. Yüzdesi için 100 ile çarpılır."
+  },
+  {
+   "no": "5 b",
+   "soru": "Eğim açısı 17° olan yolun eğim yüzdesi",
+   "cevap": "Yaklaşık %30",
+   "aciklama": "Tablodan sin17° ≈ 0,29 ve cos17° ≈ 0,96 (yüzde birler basamağına yuvarlanmış). tan17° = sin17° / cos17° = 0,29 / 0,96 ≈ 0,30. Eğim yüzdesi = 0,30 · 100 = %30."
+  }
+ ],
+ "olusturma": 1795488495894
+}

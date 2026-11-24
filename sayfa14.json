@@ -1,0 +1,84 @@
+{
+ "sayfa": 14,
+ "sorular": [
+  {
+   "no": "1",
+   "soru": "AB ve m(ABC) gösterimlerinin anlamı",
+   "cevap": "|AB|: A ile B arasındaki uzaklık (AB doğru parçasının uzunluğu). m(ABC): köşesi B olan ABC açısının derece cinsinden ölçüsü.",
+   "aciklama": "Üçgen çalışırken bir doğru parçasının uzunluğu ile bir açının ölçüsü ayrı gösterimlerle yazılır. Harfler köşeleri gösterir; açıda ortadaki harf köşedir (ABC açısının köşesi B'dir)."
+  },
+  {
+   "no": "2",
+   "soru": "Tüm kenarları eşit olan üçgenin iç açıları",
+   "cevap": "Üç iç açı da eşittir ve her biri 60° dir.",
+   "aciklama": "Kenarları eşit olan üçgende karşılarındaki açılar da eşit olur. İç açılar toplamı 180° olduğundan her açı 180 / 3 = 60° bulunur."
+  },
+  {
+   "no": "3",
+   "soru": "İki kenarı eşit üçgende bir iç açı biliniyorsa diğerleri bulunur mu",
+   "cevap": "Bilinen açının taban açısı mı tepe açısı mı olduğu belliyse bulunur. Belli değilse iki durum çıkar.",
+   "aciklama": "İkizkenar üçgende taban açıları eşittir. Bilinen açı tepe açısı t ise taban açıları (180 - t) / 2 olur. Bilinen açı taban açısı a ise diğer taban açısı da a, tepe açısı 180 - 2a olur. Örnek: 40° bilinirse ya 40-40-100 ya da 40-70-70 olabilir."
+  },
+  {
+   "no": "4",
+   "soru": "En uzun kenarın karşısındaki açı ile en kısa kenarın karşısındaki açı",
+   "cevap": "En uzun kenarın karşısındaki açı en büyük, en kısa kenarın karşısındaki açı en küçük açıdır.",
+   "aciklama": "Bir üçgende büyük kenarın karşısında büyük açı, küçük kenarın karşısında küçük açı bulunur."
+  },
+  {
+   "no": "5",
+   "soru": "a), b), c) ifadelerinin doğru mu yanlış mı olduğu",
+   "cevap": "a) Doğru. b) Yanlış. c) Yanlış.",
+   "aciklama": "a) İki geniş açının toplamı zaten 180° yi aşar, bu yüzden en fazla bir iç açı geniş olabilir. b) Her üçgende geniş açı olmaz; dar açılı ve dik açılı üçgenler vardır. c) Üç iç açısı da dar olan üçgen vardır, örneğin eşkenar üçgen (60°, 60°, 60°)."
+  },
+  {
+   "no": "6",
+   "soru": "Üçgenin kenarları arasındaki ilişki, 3 cm 5 cm 7 cm",
+   "cevap": "Bir kenar diğer iki kenarın farkından büyük, toplamından küçüktür. 3, 5, 7 ile üçgen çizilebilir.",
+   "aciklama": "|b - c| < a < b + c kuralı vardır. En uzun kenar 7 için: |5 - 3| = 2 < 7 < 5 + 3 = 8 olduğundan şart sağlanır, üçgen çizilebilir."
+  },
+  {
+   "no": "7",
+   "soru": "İki üçgenin eş olması",
+   "cevap": "Karşılıklı bütün kenar ve açıları eşit olan, üst üste konunca tamamen çakışan üçgenlerdir. Eşlik şartları: K.K.K, K.A.K, A.K.A.",
+   "aciklama": "Üç kenarı birbirine eşit (K.K.K), iki kenarı ve aradaki açısı eşit (K.A.K) ya da iki açısı ve arasındaki kenarı eşit (A.K.A) olan üçgenler eştir."
+  },
+  {
+   "no": "8",
+   "soru": "İki üçgenin benzer olması ve benzerlik oranı",
+   "cevap": "Karşılıklı açıları eşit, karşılıklı kenarları orantılı olan üçgenlerdir. Benzerlik oranı karşılıklı kenar uzunluklarının oranıdır.",
+   "aciklama": "Örneğin bir üçgenin kenarları 3-4-5, diğerinin 6-8-10 ise kenarlar 2 kat büyüktür; benzerlik oranı 2 dir."
+  },
+  {
+   "no": "9",
+   "soru": "Karşılıklı iç açıları eşit olan üçgenler eş mi benzer mi",
+   "cevap": "Benzerdir, eş olmak zorunda değildir.",
+   "aciklama": "Açıları eşit olan üçgenlerin kenarları aynı oranda büyüyüp küçülebilir (A.A benzerliği). Eş olmaları için ayrıca bir kenarlarının da eşit olması gerekir."
+  },
+  {
+   "no": "10",
+   "soru": "Pisagor teoremi hangi üçgenlerde geçerlidir",
+   "cevap": "Sadece dik üçgenlerde geçerlidir: dik kenarların kareleri toplamı hipotenüsün karesine eşittir.",
+   "aciklama": "a² + b² = c² (c hipotenüs). Gerçek hayattan örnek: Duvara dayalı merdivenin boyu ve duvardan uzaklığı bilindiğinde duvardaki yüksekliğini bulmak."
+  },
+  {
+   "no": "11",
+   "soru": "Yükseklik, kenarortay ve açıortay",
+   "cevap": "Yükseklik: köşeden karşı kenara (ya da uzantısına) çizilen dikme. Kenarortay: köşeyi karşı kenarın orta noktasına birleştiren doğru parçası. Açıortay: köşedeki açıyı iki eş açıya ayıran ışın.",
+   "aciklama": "Üçü de bir köşeden çıkar ama farklı özellikleri vardır: yükseklik dik açı oluşturur, kenarortay kenarı ortalar, açıortay açıyı ortalar."
+  },
+  {
+   "no": "12",
+   "soru": "Eşkenar üçgende iç açıortay ile kenarortay uzunlukları neden eşit",
+   "cevap": "Eşkenar üçgende bir köşeden çizilen açıortay, kenarortay ve yükseklik aynı doğru parçasıdır, bu yüzden uzunlukları eşittir.",
+   "aciklama": "Köşeden karşı kenara çizilen simetri doğrusu üçgeni iki eş üçgene ayırır. Böylece hem açıyı hem karşı kenarı ikiye böler ve karşı kenara diktir."
+  },
+  {
+   "no": "13",
+   "soru": "Ağırlık merkezinin yardımcı elemanlarla ilişkisi",
+   "cevap": "Ağırlık merkezi kenarortayların kesim noktasıdır ve her kenarortayı köşeden itibaren 2 : 1 oranında böler.",
+   "aciklama": "Üçgenin üç kenarortayı tek noktada kesişir; bu noktaya ağırlık merkezi denir. Köşeye uzaklığı, karşı kenara uzaklığının 2 katıdır."
+  }
+ ],
+ "olusturma": 1795488495894
+}

@@ -1,0 +1,18 @@
+{
+ "sayfa": 31,
+ "sorular": [
+  {
+   "no": "2",
+   "soru": "Merdiven 60° açıyla duvara dayanırsa duvarın yüksekliği",
+   "cevap": "3√6 / 2 metre (yaklaşık 3,67 m)",
+   "aciklama": "Kaydırak 6 m ve zeminle 30°: tepe yüksekliği = 6 · sin30° = 3 m. Merdiven aynı tepe noktasına bağlı ve zeminle 45° yaptığından boyu = 3 / sin45° = 3√2 m. Merdiven 60° ile duvara dayanınca üst ucunun yüksekliği = 3√2 · sin60° = 3√2 · √3/2 = 3√6/2 m."
+  },
+  {
+   "no": "3",
+   "soru": "AB uzunluğu yaklaşık kaç metre olmalıdır (AH = 35 m)",
+   "cevap": "56 metre",
+   "aciklama": "HAK dik üçgeninde tan69° = KH / 35 olduğundan KH = 35 · 2,6 = 91 m. HKA = 90° - 69° = 21°, görüş açısı 24° olduğundan HKB = 21° + 24° = 45°. HKB dik üçgeninde HB = KH = 91 m. AB = HB - HA = 91 - 35 = 56 m."
+  }
+ ],
+ "olusturma": 1795488495894
+}

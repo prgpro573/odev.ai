@@ -1,0 +1,30 @@
+{
+ "sayfa": 386,
+ "sorular": [
+  {
+   "no": "1",
+   "soru": "C(0, y) noktasının ordinatı y (A(-7,3), B(5,-3))",
+   "cevap": "y = 2",
+   "aciklama": "Atlas ve Burcu eşit hızla aynı anda C ye ulaştığından |AC| = |BC|. 7² + (y - 3)² = 5² + (y + 3)² -> 49 + y² - 6y + 9 = 25 + y² + 6y + 9 -> 58 - 6y = 34 + 6y -> 24 = 12y -> y = 2."
+  },
+  {
+   "no": "3",
+   "soru": "x ve y değerleri",
+   "cevap": "x = -12 ve y = 2",
+   "aciklama": "İp, levhanın ve çubuğun ortak ağırlık merkezi G den geçiyor. Üçgenin ağırlık merkezi ((-5 - 7 + 3)/3, (5 - 1 + y)/3) = (-3, (4 + y)/3). Çubuğun ağırlık merkezi uç noktalarının orta noktasıdır: ((x + 6)/2, 2). Eşitlenirse (x + 6)/2 = -3 -> x = -12 ve (4 + y)/3 = 2 -> y = 2."
+  },
+  {
+   "no": "4 a",
+   "soru": "a ve b değerleri",
+   "cevap": "a = 11 ve b = 2",
+   "aciklama": "A(5, a) kırmızı doğru y = 3x - 4 üzerinde: a = 3 · 5 - 4 = 11. Mavi doğru kırmızıya paralel olduğundan eğimi 3 tür. B(b, -5) ve C(7, 10) için eğim (10 + 5)/(7 - b) = 3 -> 7 - b = 5 -> b = 2."
+  },
+  {
+   "no": "4 b",
+   "soru": "Mavi doğrunun denklemi",
+   "cevap": "y = 3x - 11",
+   "aciklama": "Eğim 3 ve C(7, 10) noktasından geçiyor: y - 10 = 3(x - 7) -> y = 3x - 11. Kontrol: B(2, -5) için 3 · 2 - 11 = -5 olur."
+  }
+ ],
+ "olusturma": 1795488495894
+}
