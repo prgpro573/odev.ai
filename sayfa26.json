@@ -1,0 +1,36 @@
+{
+ "sayfa": 26,
+ "sorular": [
+  {
+   "no": "4 (L)",
+   "soru": "45° lik açı için birim çemberde L noktasının koordinatları ve değerler",
+   "cevap": "L(√2/2, √2/2); cos45° = √2/2, sin45° = √2/2",
+   "aciklama": "Birim çemberde bitim kolunun kestiği noktanın x koordinatı kosinüs, y koordinatı sinüs değeridir. 45° özel açısında sinüs ve kosinüs eşittir ve değeri √2/2 dir."
+  },
+  {
+   "no": "4 (N)",
+   "soru": "60° lik açı için N noktasının koordinatları ve değerler",
+   "cevap": "N(1/2, √3/2); cos60° = 1/2, sin60° = √3/2",
+   "aciklama": "60° için kosinüs 1/2, sinüs √3/2 dir. Nokta (cos60°, sin60°) olarak yazılır."
+  },
+  {
+   "no": "5",
+   "soru": "Birim çember üzerindeki noktanın koordinatları ile sinüs ve kosinüs arasındaki ilişki",
+   "cevap": "Birim çemberde θ açısına karşılık gelen nokta P(cosθ, sinθ) dir: x koordinatı kosinüs, y koordinatı sinüs değeridir.",
+   "aciklama": "Yarıçap 1 olduğundan açının bitim kolunun çemberi kestiği noktanın koordinatları doğrudan kosinüs ve sinüs değerlerini verir."
+  },
+  {
+   "no": "6 (L)",
+   "soru": "135° lik açı için L noktasının koordinatları ve değerler",
+   "cevap": "L(-√2/2, √2/2); cos135° = -√2/2, sin135° = √2/2",
+   "aciklama": "135° ikinci bölgede olduğundan x koordinatı negatif, y koordinatı pozitiftir. 135° nin dar açıyla ilişkisi 180° - 45° dir, bu yüzden büyüklükler 45° ninkiyle aynıdır."
+  },
+  {
+   "no": "6 (N)",
+   "soru": "150° lik açı için N noktasının koordinatları ve değerler",
+   "cevap": "N(-√3/2, 1/2); cos150° = -√3/2, sin150° = 1/2",
+   "aciklama": "150° = 180° - 30° olduğundan değerlerin büyüklükleri 30° ninkiyle aynıdır (√3/2 ve 1/2). İkinci bölgede kosinüs negatif, sinüs pozitiftir."
+  }
+ ],
+ "olusturma": 1795661174052
+}

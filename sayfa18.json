@@ -1,0 +1,12 @@
+{
+ "sayfa": 18,
+ "sorular": [
+  {
+   "no": "1. Sıra Sizde",
+   "soru": "Zipline parkurunda iki direk arasındaki en kısa uzaklık yaklaşık kaç metredir",
+   "cevap": "Yaklaşık 78 metre.",
+   "aciklama": "Kişi ipi iki parçaya ayırıyor. Uzun direk 50 m, kısa direk 33 m, kişinin yüksekliği 32 m. Uzun direk tarafı: direk boyunca 50 - 32 = 18 m aşağı iniliyor, ip direkle 75° yapıyor; yatay uzaklık = 18 · tan75° = 18 · 3,7 = 66,6 m. Kısa direk tarafı: 33 - 32 = 1 m, ip direkle 85° yapıyor; yatay uzaklık = 1 · tan85° = 11,4 m. Direkler arası uzaklık = 66,6 + 11,4 = 78 m."
+  }
+ ],
+ "olusturma": 1795488495894
+}
